@@ -1,6 +1,6 @@
 # Text Editor
 
-A simple web-based text editor built with HTML, CSS, and JavaScript.
+A simple web-based text editor
 
 ## Screenshots
 
