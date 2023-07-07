@@ -33,12 +33,12 @@ To run the Text Editor, you need a web browser installed on your machine.
 
 1. Clone the repository:
 
-git clone https://github.com/nith2349/CodeClause_Basic_Text_Editor.git
+    git clone https://github.com/nith2349/CodeClause_Basic_Text_Editor.git
 
 
 2. Navigate to the project directory:
 
-cd CodeClause_Basic_Text_Editor
+    cd CodeClause_Basic_Text_Editor
 
 
 3. Open the `index.html` file in your preferred web browser.
